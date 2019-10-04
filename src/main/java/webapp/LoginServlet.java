@@ -40,7 +40,7 @@ public class LoginServlet extends HttpServlet {
 		out.println("<title>Yahoo!!!!!!!!</title>");
 		out.println("</head>");
 		out.println("<body>");
-		out.println("My First Servlet");
+		out.println("My First Servlet for Vodaafone demo");
 		out.println("</body>");
 		out.println("</html>");
 
